@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: ebee158ed68c15644a0117f30c57ba94
+timeCreated: 1620814800
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fx_dizzy_stars_anim_0
+    21300002: fx_dizzy_stars_anim_1
+    21300004: fx_dizzy_stars_anim_2
+    21300006: fx_dizzy_stars_anim_3
+    21300008: fx_dizzy_stars_anim_4
+    21300010: fx_dizzy_stars_anim_5
+    21300012: fx_dizzy_stars_anim_6
+    21300014: fx_dizzy_stars_anim_7
+    21300016: fx_dizzy_stars_anim_8
+    21300018: fx_dizzy_stars_anim_9
+    21300020: fx_dizzy_stars_anim_10
+    21300022: fx_dizzy_stars_anim_11
+    21300024: fx_dizzy_stars_anim_12
+    21300026: fx_dizzy_stars_anim_13
+    21300028: fx_dizzy_stars_anim_14
+    21300030: fx_dizzy_stars_anim_15
+    21300032: fx_dizzy_stars_anim_16
+    21300034: fx_dizzy_stars_anim_17
+    21300036: fx_dizzy_stars_anim_18
+    21300038: fx_dizzy_stars_anim_19
+    21300040: fx_dizzy_stars_anim_20
+    21300042: fx_dizzy_stars_anim_21
+    21300044: fx_dizzy_stars_anim_22
+    21300046: fx_dizzy_stars_anim_23
+    21300048: fx_dizzy_stars_anim_24
+    21300050: fx_dizzy_stars_anim_25
+    21300052: fx_dizzy_stars_anim_26
+    21300054: fx_dizzy_stars_anim_27
+    21300056: fx_dizzy_stars_anim_28
+    21300058: fx_dizzy_stars_anim_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: PSP2
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_6
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_8
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_9
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_10
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_11
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_12
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_13
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_14
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_15
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_16
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_17
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_18
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_19
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_20
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_21
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_22
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_23
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_24
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_25
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_26
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_27
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_28
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fx_dizzy_stars_anim_29
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 0
+        width: 119.46667
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
